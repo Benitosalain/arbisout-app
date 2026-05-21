@@ -1,0 +1,6 @@
+{
+  "name": "Arbisout",
+  "description": "Full-screen responsive live arbitrage tracker and WebView wrapper with Swipe-To-Refresh integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
